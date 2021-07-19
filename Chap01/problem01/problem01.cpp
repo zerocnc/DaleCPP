@@ -3,6 +3,8 @@
 #include <fstream>
 #include <vector>
 
+// Problem 01 of Chapter 1
+
 struct StudentRecord
 {
     std::string firstName;
